@@ -1,2 +1,2 @@
 
-<a href="https://bait-linux.github.io/Snooper-Eyes/"><img src="https://github.com/BAIT-LINUX/Snooper-Eyes/blob/b999b8524c90f38975b6d8d7171d9a26d9e4a8e3/20220107_140903.png" width="100%"></a>
+<a href="https://bait-linux.github.io/Snooper-Eyes/"><p align="center"><img src="https://github.com/BAIT-LINUX/Snooper-Eyes/blob/a5463141f630fd691ab51b49abe2a8e8addc2f48/20220107_141245.jpg" width="30%"></a>
